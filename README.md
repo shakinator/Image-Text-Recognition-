@@ -10,5 +10,5 @@ There is a Low Latency requirement meaning, given a picture the model should be 
 Predict Text from Images with Variable length Labels/Words.
 
 ## Some of the sample Images with text inside 
-<img src="https://user-images.githubusercontent.com/65782416/191494010-583dd2e5-8be5-4a31-844f-e303e52321cb.jpg" alt="" size="75" align="left"></a>
-<img src="https://user-images.githubusercontent.com/65782416/191494023-f0e8d6c4-9380-459e-826c-93843cc7eeb3.jpg" alt="" size="50" align="left"></a>
+<img src="https://user-images.githubusercontent.com/65782416/191494010-583dd2e5-8be5-4a31-844f-e303e52321cb.jpg" alt="" size="25" align="left"></a>
+<img src="https://user-images.githubusercontent.com/65782416/191494023-f0e8d6c4-9380-459e-826c-93843cc7eeb3.jpg" alt="" size="25" align="left"></a>
